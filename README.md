@@ -1,7 +1,11 @@
+<div align="center" style="font-family: 'Verdana', 'Arial', sans-serif;">
+<img src='./'  />
 # 👋 Hi, I'm NeuroForge
 
-I forge ideas into code and explore the realms of **AI, cutting-edge tech, and cybersecurity**.  
-Currently mastering **Python** while shaping the path to become a tech innovator.
+I forge ideas into code and explore the realms of <b>AI, cutting-edge tech, and cybersecurity</b>.<br>
+Currently mastering <b>Python</b> while shaping the path to become a tech innovator.
+
+</div>
 
 ---
 
@@ -45,7 +49,9 @@ Currently mastering **Python** while shaping the path to become a tech innovator
 ---
 
 ### 💬 Motto
-> _"Forging ideas, coding the future."_ 🔥
+<div align="center" style="font-family: 'Courier New', monospace;">
+<em>"Forging ideas, coding the future."</em> 🔥
+</div>
 
 ---
 
@@ -54,18 +60,4 @@ Currently mastering **Python** while shaping the path to become a tech innovator
 - LinkedIn: `https://www.linkedin.com/in/your-linkedin`  
 - Portfolio: `https://your-portfolio.example.com`
 
-
-<!--
-**NeuroForge01/NeuroForge01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
