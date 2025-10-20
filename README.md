@@ -1,5 +1,5 @@
 <div align="center" style="font-family: 'Verdana', 'Arial', sans-serif;">
-<img src='./'  />
+<img src='./image.png' ait='image' />
 # 👋 Hi, I'm NeuroForge
 
 I forge ideas into code and explore the realms of <b>AI, cutting-edge tech, and cybersecurity</b>.<br>
